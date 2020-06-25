@@ -1,0 +1,13 @@
+-pygame
+-keras
+-json(jsp si c'est installé de base)
+-numpy
+-librosa
+-sklearn
+-joblib
+-pyautogui
+-gtts
+-pyaudio
+-matplotlib (me souviens plus si c'est encore utile dans le code final)
+-sounddevice
+-scipy
