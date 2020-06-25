@@ -1,0 +1,13 @@
+Projet de reconnaissance vocale
+
+Interface Utilisateur: Hugo Saint-Raymond
+Creation de l'IA: Aurelien Buck-Kaeffer avec pour la partie théorique Nicolas Pengov
+
+Merci également à ceux qui ont donné du temps pour enrengistré les différentes commandes afin de completer le dataset
+Hugo Saint-Raymond
+Aurelien Buck-Kaeffer
+Nicolas Pengov
+La mère de Aurelien Buck-Kaeffer
+Bulkin
+Tyleron
+Neutryno
